@@ -1,0 +1,57 @@
+h5{
+    font-size: 26px;
+    margin: 16px 0 16px;
+    padding:20px 0px 0px
+}
+
+.title{
+    font-size: 40px;
+    color:#313131;
+    margin: 0 0 16px
+}
+
+.block_prepare{
+    margin:110px 0px 0px
+}
+
+.main{
+    margin: 48px 0px 0px 8px; 
+    padding:16px
+}
+
+.budget_chart{
+    margin:0px 0px 0px 16px
+}
+
+.reestr_sum{
+    margin: 24px 0px 24px;
+    padding: 0px 24px;
+}
+
+.reestr{
+    font-size: 20px;
+}
+
+.calldiv{
+    font-size: 18px;
+}
+
+.callnum{
+    font-size: 30px;
+}
+
+.callblock{
+    margin: 24px 0px 0px;
+}
+
+.callnum_total{
+    font-size: 50px;
+}
+
+.callmain{
+    margin: 48px 0px 0px 8px;
+}
+
+.footer_img{
+    margin: 16px 0px
+}
